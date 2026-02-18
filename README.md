@@ -22,6 +22,7 @@ Feedback visual:
 Interface centralizada e estilizada com CSS
 
 🛠️ Tecnologias Utilizadas:
+
 HTML5
 
 CSS3
