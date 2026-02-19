@@ -1,0 +1,82 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Container principal */
+body > * {
+    text-align: center;
+}
+
+/* Caixa principal */
+h1, input, button, p {
+    display: block;
+    margin: 10px auto;
+}
+
+/* Título */
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Inputs */
+input {
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    font-size: 16px;
+}
+
+/* Botão */
+button {
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: #f6c23e;
+    color: #333;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #e0a800;
+    transform: scale(1.05);
+}
+
+/* Resultado */
+p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    color: #333;
+}
+.container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+.aprovado {
+    color: green;
+}
+
+.reprovado {
+    color: red;
+}
