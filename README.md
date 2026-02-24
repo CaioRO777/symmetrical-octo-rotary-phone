@@ -24,7 +24,7 @@
 
 ## 📷 Demonstração
 
-
+<img width="1363" height="634" alt="Screenshot 2026-02-24 003616" src="https://github.com/user-attachments/assets/79320ae4-d1eb-4d58-8d59-0698f969d482" />
 
 ---
 
