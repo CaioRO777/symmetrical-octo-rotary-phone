@@ -58,4 +58,4 @@ Durante a construção deste projeto, foquei em praticar:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/CaioRO777/symmetrical-octo-rotary-phone.git](https://github.com/CaioRO777/symmetrical-octo-rotary-phone.git)
+   git clone https://github.com/CaioRO777/symmetrical-octo-rotary-phone.git
