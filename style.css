@@ -11,6 +11,7 @@ body {
     background: linear-gradient(135deg, #4e73df, #1cc88a);
     height: 100vh;
     display: flex;
+    flex-direction: column; /* ✨ ESSA É A MÁGICA QUE FALTAVA ✨ */
     justify-content: center;
     align-items: center;
 }
